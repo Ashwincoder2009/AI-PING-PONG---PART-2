@@ -10,6 +10,7 @@ float:right;
 border:1px solid white;
 }
 .copywright_footer{
-margin:0;
-position:fixed;
+bottom:0px;
+position:sticky;
+background-color:white;
 }
